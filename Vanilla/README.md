@@ -1,6 +1,12 @@
-# 欢迎来到 Vanilla 服务器!
+# 欢迎来到 ServerVanilla !
 
-Impart 企划是一款由一群大学生 Minecraft 玩家组织的 Minecraft 小游戏企划，目前正在与[香草游戏部 (ServerVanilla MC Dept.)](../Vanilla/README.md) 合作。
+ServerVanilla 是一个跨高校合作组织。我们在此只介绍它的游戏部门。
+
+[香草游戏部 (ServerVanilla MC Dept.)](../Vanilla/README.md)
+
+以及
+
+[香草联合上海交通大学总部游戏组(ServerVanilla MC Dept.)](../Vanilla/README.md)
 
 qq 群号如下:
 
