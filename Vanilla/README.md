@@ -8,11 +8,8 @@ ServerVanilla 是一个跨高校合作组织。我们在此只介绍它的游戏
 
 [香草联合上海交通大学总部游戏分部(ServerVanilla MC Dept.)](../Vanilla/README.md)
 
-qq 群号如下:
+加入方法：QQ群：672126876
 
-```
-ServerVanilla: 839869932
-```
 
 ---
 
