@@ -187,4 +187,4 @@ _W
 | 39min               | 缩至2×2                                   |
 | 40min               | 玩家持续收到近战伤害（盾牌可挡20%）            |
 
-> $\copyright$ 2023 lytDARK - Survival War 保留所有权利
+> © 2023 lytDARK - Survival War 保留所有权利
