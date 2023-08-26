@@ -2,11 +2,11 @@
 
 ServerVanilla 是一个跨高校合作组织。我们在此只介绍它的游戏部门。
 
-[香草游戏部 (ServerVanilla MC Dept.)](../Vanilla/README.md)
+[香草游戏部 (ServerVanilla MC Div.)](../Vanilla/README.md)
 
 以及
 
-[香草联合上海交通大学总部游戏组(ServerVanilla MC Dept.)](../Vanilla/README.md)
+[香草联合上海交通大学总部游戏分部(ServerVanilla MC Dept.)](../Vanilla/README.md)
 
 qq 群号如下:
 
