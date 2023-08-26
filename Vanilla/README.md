@@ -9,8 +9,8 @@ ServerVanilla 是一个跨高校合作组织。我们在此只介绍它的游戏
 
 ---
 
-目前游戏项目主要有:
+目前自研游戏项目有:
 
-- [生存战争](EHC/rules.md)
+- [生存战争](<Survival War/rules.md>)
 
 ---
