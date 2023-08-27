@@ -1,0 +1,27 @@
+{
+    "parent": "minecraft:story/root",
+    "display": {
+        "icon": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "frame": "challenge",
+        "title": "真的开了!",
+        "description": "吃下附魔金苹果~",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": true
+    },
+    "criteria": {
+        "eat_enchanted": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:enchanted_golden_apple"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [["eat_enchanted"]]
+}
