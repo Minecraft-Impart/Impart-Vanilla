@@ -1,0 +1,27 @@
+{
+    "parent": "minecraft:story/root",
+    "display": {
+        "icon": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "frame": "challenge",
+        "title": "是不是开了?",
+        "description": "拿到附魔金苹果~",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": true
+    },
+    "criteria": {
+        "enchanted_life": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:enchanted_golden_apple"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [["enchanted_life"]]
+}
