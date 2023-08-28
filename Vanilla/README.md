@@ -11,6 +11,6 @@ ServerVanilla 是一个跨高校合作组织。我们在此只介绍它的游戏
 
 目前自研游戏项目有:
 
-- [生存战争](<./SJTU HeadQuarter/MC Department/README.md>)
+- [生存战争](<https://github.com/lytDARK/SurvivalWar/>)
 
 ---
