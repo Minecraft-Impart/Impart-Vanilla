@@ -41,14 +41,14 @@ team modify G prefix "[team G]"
 team modify H prefix "[team H]"
 
 # 关闭友伤
-team modify A friendlyFire false
-team modify B friendlyFire false
-team modify C friendlyFire false
-team modify D friendlyFire false
-team modify E friendlyFire false
-team modify F friendlyFire false
-team modify G friendlyFire false
-team modify H friendlyFire false
+# team modify A friendlyFire false
+# team modify B friendlyFire false
+# team modify C friendlyFire false
+# team modify D friendlyFire false
+# team modify E friendlyFire false
+# team modify F friendlyFire false
+# team modify G friendlyFire false
+# team modify H friendlyFire false
 
 
 # 人数统计
