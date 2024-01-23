@@ -6,8 +6,8 @@
 
 目前已经有 2 个常见拓展 DLC 玩法。
 
-- [EHC-Full](docs/full.md)
-- [EHC-30min](docs/30.md)
+- [EHC-Full](full.md)
+- [EHC-30min](30.md)
 
 ## 1.基本规则
 

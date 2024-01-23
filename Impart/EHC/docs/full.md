@@ -1,6 +1,6 @@
 # EHC-Full
 
-该玩法为 [EHC](../rules.md) 的一个 DLC 。大体规则请参考 [EHC 本体](../rules.md#1基本规则) 。
+该玩法为 [EHC](/rules.md) 的一个 DLC 。大体规则请参考 [EHC 本体](/rules.md#1基本规则) 。
 
 该模式为 Impart 服 EHC 的最原始版本，游戏时长较长 (平均要 $1.5\text{h}$ 及以上)，更加接近最原始的 UHC 玩法，但是难度上大幅下调，非常适合新手入坑。
 
