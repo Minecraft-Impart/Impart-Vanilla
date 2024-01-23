@@ -1,4 +1,12 @@
-# Execute all functions that only updates per second
+# 时间控制
+scoreboard players reset Tick Ticker
+scoreboard players add 计时器 Score 1
 
-function helper:inc
+# 效果控制
+function helper:effects
+
+# 播报控制
 function helper:control
+
+# 模式控制
+function helper:gamemode

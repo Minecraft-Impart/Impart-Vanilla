@@ -1,13 +1,8 @@
 # Execute all functions that only updates per second
 
-# 控制计时器，不要修改!
+# 计时器控制!
 function helper:timer
-
-# 显示位置，玩家时刻执行!
+# 玩家位置显示与控制。
 function helper:position
-
-# 初始夜视效果
-effect give @a night_vision infinite 0 true
-
-# 初始控制在指定高度
-execute if score Timer Timer matches -10000..-31 run execute at @a run tp @p ~ 160 ~
+# 潜行控制(暂未启用)
+# execute as @a[scores={Sneak=1..}] at @s run function helper:sneak

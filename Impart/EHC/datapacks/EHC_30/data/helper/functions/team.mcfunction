@@ -1,5 +1,11 @@
 # Execute once (on init).
 
+# 特殊的观察者队伍
+team remove Spectator
+team add Spectator
+team modify Spectator prefix "[观察者]"
+team modify Spectator color gray
+
 # 移除无用队伍
 team remove A
 team remove B
@@ -19,6 +25,7 @@ team add E
 team add F
 team add G
 team add H
+
 
 # 颜色设置
 team modify A color red
@@ -41,15 +48,14 @@ team modify G prefix "[team G]"
 team modify H prefix "[team H]"
 
 # 关闭友伤
-# team modify A friendlyFire false
-# team modify B friendlyFire false
-# team modify C friendlyFire false
-# team modify D friendlyFire false
-# team modify E friendlyFire false
-# team modify F friendlyFire false
-# team modify G friendlyFire false
-# team modify H friendlyFire false
-
+team modify A friendlyFire false
+team modify B friendlyFire false
+team modify C friendlyFire false
+team modify D friendlyFire false
+team modify E friendlyFire false
+team modify F friendlyFire false
+team modify G friendlyFire false
+team modify H friendlyFire false
 
 # 人数统计
 scoreboard objectives remove teamAPlayerCount

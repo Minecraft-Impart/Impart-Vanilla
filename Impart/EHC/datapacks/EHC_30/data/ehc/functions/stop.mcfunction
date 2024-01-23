@@ -1,1 +1,1 @@
-scoreboard objectives remove Timer
+scoreboard objectives remove Score

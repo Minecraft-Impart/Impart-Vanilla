@@ -8,6 +8,6 @@ Impart 企划是一款由一群大学生 Minecraft 玩家组织的 Minecraft 小
 
 - [EHC](EHC/rules.md)
 - [bingo](https://www.bilibili.com/read/cv10050417)
-- [EarthMc](Earth/draft.md)
+- [EarthMc](EarthMC/draft.md)
 
 ---
