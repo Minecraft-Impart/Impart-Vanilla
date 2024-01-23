@@ -13,5 +13,5 @@ fill ~11 200 ~11 ~-12 210 ~-12 bedrock hollow
 fill ~11 210 ~11 ~-12 214 ~-12 barrier hollow
 fill ~11 214 ~11 ~-12 214 ~-12 air
 
-setworldspawn ~ 213 ~
+setworldspawn ~ 202 ~
 kill @e[tag=Impart]

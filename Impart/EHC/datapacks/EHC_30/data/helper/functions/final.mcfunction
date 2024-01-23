@@ -1,5 +1,8 @@
 # 最终决战
 
+# 发光
+effect give @a glowing infinite 0 true
+
 # 游戏规则改回去
 gamerule keepInventory false
 gamerule doImmediateRespawn false
