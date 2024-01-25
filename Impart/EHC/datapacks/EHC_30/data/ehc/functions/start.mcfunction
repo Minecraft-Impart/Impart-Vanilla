@@ -9,13 +9,8 @@ advancement revoke @a everything
 
 # 难度和平/环境初始化
 difficulty peaceful
-time set 0
+time set noon
 weather clear
-
-# 游戏规则
-gamerule keepInventory false
-gamerule doImmediateRespawn false
-gamerule playersSleepingPercentage 101
 
 # 世界直径设置
 worldborder set 256

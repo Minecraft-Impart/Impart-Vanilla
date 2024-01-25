@@ -7,9 +7,9 @@ weather clear
 difficulty normal
 
 # 给物品
-give @a[team=!Spectator] minecraft:stone_pickaxe 1
-give @a[team=!Spectator] minecraft:stone_axe 1
-give @a[team=!Spectator] minecraft:stone_shovel 1
+give @a[team=!Spectator] stone_pickaxe{Enchantments:[{id:"unbreaking",lvl:5}]} 1
+give @a[team=!Spectator] stone_axe{Enchantments:[{id:"unbreaking",lvl:5}]} 1
+give @a[team=!Spectator] minecraft:stone_shovel{Enchantments:[{id:"unbreaking",lvl:5}]} 1
 
 
 title @a title {"text": "比赛正式开始!","color": "red"}
